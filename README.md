@@ -4,8 +4,12 @@
 
 ## Overview
 
-Project ini bertujuan untuk mengeksplor dataset NBA dan mengkluster pemain-pemain NBA berdasarkan posisinya menggunakan <b>k-means clustering</b>. 
+Project ini bertujuan untuk mengeksplor dataset NBA dan mengkluster pemain-pemain NBA berdasarkan posisinya menggunakan <b>K-Means Clustering</b>. 
 
 ## Results
 
 ### Exploratory Data Analysis
+
+
+
+
