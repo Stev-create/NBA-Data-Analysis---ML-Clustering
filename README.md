@@ -56,7 +56,6 @@ Awalnya saya melakukan dekomposisi dengan menggunakan PCA, mengkompresnya menjad
 
 Setelah mencoba melakukan prediksi-prediksi pada pemain-pemain yang saya ketahui posisinya, misalnya Yao Ming (Center) atau Muggsy Bogues (Point Guard). Saya menyimpulkan bahwa:
 
-Kalau saya coba tarik kesimpulannya:
 * Cluster 0: Posisi Point Guard
 * Cluster 1: Posisi Center
 * Cluster 2: Posisi Small Forward
