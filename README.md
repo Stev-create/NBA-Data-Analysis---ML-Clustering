@@ -22,7 +22,7 @@ Kemudian saya juga mencoba untuk melihat AVG PPG pemain yang menurut saya, salah
 
 ![GitHub Logo](/images/1.png)
 
-Ternyata di season 2005-06 adalah season dimana Kobe punya AVG PPG terbanyak untuk dataset ini. Dan adanya fakta menarik pada season itu, tepatnya tanggal 22 Jan 2006, Kobe mencetak 81 poin! Dan itu menjadi skor terbanyak ke-dua sepanjang sejarah yang pemain dapat lakukan di satu game NBA. Dan banyak fakta-fakta menariknya yang terjadi pada season 2005-2006 di website ini: http://global.nba.com/news/10-years-later-10-facts-about-kobes-2005-06-season/. 
+Ternyata di season 2005-06 adalah season dimana Kobe punya AVG PPG terbanyak untuk dataset ini. Dan adanya fakta menarik pada season 2005-06, tepatnya tanggal 22 Jan 2006, Kobe mencetak 81 poin! Dan itu menjadi skor terbanyak ke-dua sepanjang sejarah yang pemain dapat lakukan di satu game NBA. Dan banyak fakta-fakta menariknya yang terjadi pada season 2005-2006 di website ini: http://global.nba.com/news/10-years-later-10-facts-about-kobes-2005-06-season/. 
 
 Kemudian saya juga penasaran, dengan distribusi tinggi pemain-pemain NBA. Dimana grafiknya dapat dilihat di bawah:
 
