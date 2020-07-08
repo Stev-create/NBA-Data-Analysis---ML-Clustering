@@ -64,6 +64,7 @@ Setelah mencoba melakukan prediksi-prediksi pada pemain-pemain yang saya ketahui
 
 > Namun adanya kekurangan dari model di atas, mengingat fitur-fitur pada dataset ini tidak terlalu memumpuni. Mengingat kalau misalnya, kita ingin membedakan posisi Shooting Guard dan Small Forward, fisik dan AVG PTS tidak bisa jadi pegangan. Seharusnya ada fitur yang membedakan mana poin dari garis 3 poin dan mana yang di dalam garis 3 poin. 
 
+Untuk lengkapnya, dapat dilihat di [notebook ini](https://github.com/Stev-create/NBA-Data-Analysis---ML-Clustering/blob/master/%20NBA-Data-Analysis---ML-Clustering.ipynb). 
 
 
 
