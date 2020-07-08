@@ -16,7 +16,7 @@ Dataset ini diambil dari tahun 1996 sampai 2020, namun seperti yang kita tahu, u
 
 [1] "NBA to suspend season following Wednesday's games". NBA.com. March 11, 2020. Retrieved March 12, 2020. https://www.nba.com/article/2020/03/11/nba-suspend-season-following-wednesdays-games
 
-Pada eksplorasi data, dilakukannya pencarian sepuluh pemain teratas dengan Average Points Per Game (PPG), Assists Per Game (APG), dan Rebounds Per Game (RPG) terbanyak di setiap season. Dimana dari daftar PPG, <b>James Harden</b> di season 2018-19 adalah pemain dengan AVG PPG terbanyak di dataset ini. Sedangkan untuk kategori pemain dengan AVG APG dan RPG terbanyak dapat dilihat di notebook ini. 
+Pada eksplorasi data, dilakukannya pencarian sepuluh pemain teratas dengan Average Points Per Game (PPG), Assists Per Game (APG), dan Rebounds Per Game (RPG) terbanyak di setiap season. Dimana dari daftar PPG, <b>James Harden</b> di season 2018-19 adalah pemain dengan AVG PPG terbanyak di dataset ini. Sedangkan untuk kategori pemain dengan AVG APG dan RPG terbanyak dapat dilihat di [GitHub](http://github.com). 
 
 Kemudian saya juga mencoba untuk melihat AVG PPG pemain yang menurut saya, salah satu pemain paling konsisten dalam mencetak poin di NBA, Kobe Bryant. Dimana grafiknya dapat dilihat di bawah:
 
