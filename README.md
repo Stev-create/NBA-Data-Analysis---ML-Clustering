@@ -44,7 +44,7 @@ Dari matriks korelasi di atas, kita bisa menarik kesimpulan. Bahwa banyak fitur 
 
 ![GitHub Logo](/images/5.png)
 
-Masuk akal, melihat korelasi minus antara fitur tinggi dan berat pemain dengan assist. Memang tidak menutup kemungkinan adanya pemain besar dengan court vision yang hebat, misalnya Nikola Jokić.
+Masuk akal, melihat korelasi minus antara fitur tinggi dan berat pemain dengan assist. Memang tidak menutup kemungkinan adanya pemain besar dengan court vision  dan pass yang baik, misalnya Nikola Jokić.
 
 ## Clustering 
 
