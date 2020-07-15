@@ -42,7 +42,6 @@ Dari matriks korelasi di atas, kita bisa menarik kesimpulan. Bahwa banyak fitur 
 
 ![GitHub Logo](/images/4.png)
 
-![GitHub Logo](/images/5.png)
 
 Masuk akal, melihat korelasi minus antara fitur tinggi dan berat pemain dengan assist. Memang tidak menutup kemungkinan adanya pemain besar dengan court vision  dan pass yang baik, misalnya Nikola Jokić.
 
@@ -50,7 +49,6 @@ Masuk akal, melihat korelasi minus antara fitur tinggi dan berat pemain dengan a
 
 Awalnya saya melakukan dekomposisi dengan menggunakan PCA, mengkompresnya menjadi dua dimensi. Dan informasi yang tersisa cukup lumayan, sekitar 85%. Dan juga, pada project ini, saya tidak perlu menggunakan <b>Elbow Methods</b> atau melihat <b>Silhouette Score</b> dalam menentukan <b>K</b>. Mengingat di project ini, saya ingin cluster pemain-pemain berdasarkan posisinya. Dimana dalam basket terdapat 5 posisi, yaitu <b>PG (Point Guard), SG (Shooting Guard), SF (Small Forward), PF (Power Forward),</b> dan <b>C (Center)</b>.
 
-![GitHub Logo](/images/6.png)
 
 ## Conclusion
 
